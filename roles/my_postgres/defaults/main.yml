@@ -1,0 +1,4 @@
+postgres_version: 15
+postgres_user: "db_user"
+postgres_password: "qwerty123"
+postgres_db: "main_db"
