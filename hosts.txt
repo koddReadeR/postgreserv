@@ -1,2 +1,2 @@
 [linux_servers]
-node1 ansible_host=172.18.15.115 ansible_user=node1 ansbile_ssh_private_key=/home/admin/.ssh/node1_id_rsa.pub
+node1 ansible_host=172.18.15.115 ansible_user=node1 ansible_ssh_private_key=/home/admin/.ssh/node1_id_rsa
